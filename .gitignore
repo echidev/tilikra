@@ -1,0 +1,6 @@
+# 1. Data files
+data/
+
+# 2. Virtual environment
+venv/
+
